@@ -542,6 +542,10 @@ section h3.section-subheading {
   margin: 0 auto;
   border: 7px solid white;
 }
+.team-member > img.blackborder {
+  margin: 0 auto;
+  border: 7px solid #eee;
+}
 .team-member h4 {
   margin-top: 25px;
   margin-bottom: 0;
